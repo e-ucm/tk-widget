@@ -1,0 +1,16 @@
+{
+  "name": "tk-widget",
+  "version": "0.1.0",
+  "description": "Thomas Kilmann \"Conflict situations\" visualization widget",
+  "main": "src/tk-widget.js",
+  "repository": "https://github.com/e-ucm/tk-widget.git",
+  "author": "e-UCM Research Group",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "d3": "~4.7.3"
+  },
+  "devDependencies": {
+    "lodash.clonedeep": "^4.5.0",
+    "webpack": "^2.3.2"
+  }
+}
